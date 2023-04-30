@@ -1,7 +1,7 @@
 # e-commerce_API_PoC
 Proof of Concept for a e-commerce API REST.
 
-Tech stack
+### Tech stack:
 - Java 11
 - Spring Boot 2.5.5
 - H2 DB (embedded)
